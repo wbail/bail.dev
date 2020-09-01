@@ -1,0 +1,60 @@
+entries:
+  - title: info
+    url: false
+    entries:
+      - title: software_engineer
+        url: false
+      - title: resume
+        url: https://bail.dev/resume
+      - title: bail.dev
+        url: https://bail.dev/
+      - title: linkedin
+        url: https://linkedin.com/in/guilherme-bail
+      - title: github
+        url: https://github.com/wbail
+      - title: medium
+        url: https://medium.com/@wbail
+
+  - title: about_me
+    url: false
+    entries:
+      - title: I am a FullStack Engineer, with more than 7 years of experience in the IT environment. Working in global companies such as ExxonMobil, building enterprise, and scalable products used by thousands of users.
+        url: false
+
+  - title: categories
+    category_list: true
+    url: false
+    entries: true
+
+  - title: tech_stack
+    url: false
+    entries:
+      - title: C#
+        url: false
+      - title: .NET Core 3+
+        url: false
+      - title: Angular 2+
+        url: false
+      - title: Bootstrap CSS
+        url: false
+      - title: Git
+        url: false
+      - title: Oracle (PL/SQL)
+        url: false
+      - title: SQL Server
+        url: false
+      - title: Docker
+        url: false
+      - title: Unity Testing
+        url: false
+      - title: Linux
+        url: false
+      - title: Cloud
+        url: false
+
+
+
+  - title: latest_posts
+    post_list: true
+    url: false
+    entries: true
