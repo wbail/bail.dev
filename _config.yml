@@ -5,7 +5,7 @@ description: >-
 baseurl: ""
 url: "https://bail.dev"
 github_username: wbail
-linkedin_usernam: guilherme-bail
+linkedin_username: guilherme-bail
 medium_username: \@wbail
 
 show_excerpts: true

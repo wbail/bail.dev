@@ -33,6 +33,8 @@ entries:
         url: false
       - title: .NET Core 3+
         url: false
+      - title: SOLID
+        url: false
       - title: Angular 2+
         url: false
       - title: Bootstrap CSS
@@ -51,8 +53,6 @@ entries:
         url: false
       - title: Cloud
         url: false
-
-
 
   - title: latest_posts
     post_list: true
