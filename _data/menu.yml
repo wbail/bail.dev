@@ -5,9 +5,9 @@ entries:
       - title: software_engineer
         url: false
       - title: resume
-        url: https://bail.dev/resume
+        url: resume.pdf
       - title: bail.dev
-        url: https://bail.dev/
+        url: 
       - title: linkedin
         url: https://linkedin.com/in/guilherme-bail
       - title: github
