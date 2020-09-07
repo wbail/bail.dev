@@ -16,4 +16,4 @@ Frontend consuming the Ticket API, **empower** the users a creation of tickets w
 
 ## Image
 
-<img src="../images/ticket_api.png" alt="ticket_api" height="400">
+<img src="../../../../images/ticket_api.png" alt="ticket_api" height="400">

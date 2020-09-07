@@ -16,4 +16,4 @@ Chatbot developed for Skype using natural language, in order to identify which c
 
 ## Image
 
-<img src="../images/chat_bot.png" alt="chat_bot" height="400">
+<img src="../../../../images/chat_bot.png" alt="chat_bot" height="400">

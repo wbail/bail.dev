@@ -16,4 +16,4 @@ Project to help Geologists from a **Major** Global Company in the **Oil and Gas*
 
 ## Image
 
-<img src="../images/quality_prod_data.png" alt="quality_prod_data" height="400">
+<img src="../../../../images/quality_prod_data.png" alt="quality_prod_data" height="400">

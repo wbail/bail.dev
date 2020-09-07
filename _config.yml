@@ -3,19 +3,19 @@ email: guilhermedanbail@gmail.com
 description: >-
     portfolio && blog
 baseurl: ""
-url: ""
+url: "https://bail.dev"
 github_username: wbail
 linkedin_username: guilherme-bail
 medium_username: \@wbail
 
 show_excerpts: true
 
-defaults:
-  -
-    scope:
-      path: "_posts"
-    values:
-      permalink: "/:categories/:title"
+#defaults:
+#  -
+#    scope:
+#      path: "_posts"
+#    values:
+#      permalink: "/:categories/:title"
 
 markdown: kramdown
 #theme: no-style-please
@@ -23,7 +23,7 @@ remote_theme: riggraz/no-style-please
 favicon: favicon.ico
 
 theme_config:
-    back_home_text: "...back"
+    back_home_text: "127.0.0.1"
     show_description: true
 
 plugins:
