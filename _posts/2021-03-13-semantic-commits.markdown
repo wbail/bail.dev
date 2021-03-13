@@ -28,49 +28,49 @@ Below is the logic and details of how to follow the pattern.
 ```
 
 ## Types
-* *build*: Changes that affect the build system or affect external dependencies (Ex: npm, gulp)
+* **build**: Changes that affect the build system or affect external dependencies (Ex: npm, gulp)
 
-* *ci*: Changes to CI configuration files and scripts (Ex: TravisCI, Jenkins)
+* **ci**: Changes to CI configuration files and scripts (Ex: TravisCI, Jenkins)
 
-* *docs*: Documentation changes only
+* **docs**: Documentation changes only
 
-* *feat*: New features
+* **feat**: New features
 
-* *fix*: Bug fixes
+* **fix**: Bug fixes
 
-* *perf*: Changes in code that increase performance
+* **perf**: Changes in code that increase performance
 
-* *refactor*: Changes to the code that are not bug fixes or new features
+* **refactor**: Changes to the code that are not bug fixes or new features
 
-* *style*: Changes that do not affect the code itself (Ex: whitespace, formatting)
+* **style**: Changes that do not affect the code itself (Ex: whitespace, formatting)
 
-* *test*: Add or correct tests
+* **test**: Add or correct tests
 
 ## Scope
 The scope can be added to inform which application layer this commit concerns.
 
 Scope examples:
 
-* *service*
-* *common*
-* *upgrade*
-* *core*
-* *forms*
-* *app*
+* **service**
+* **common**
+* **upgrade**
+* **core**
+* **forms**
+* **app**
 
 ## Description
 The Description contains a succinct message, following the pattern below:
 
-Use of verbs in the *present tense imperative*. Ex: "change" and not "changed or" changes "
+Use of verbs in the **present tense imperative**. Ex: "change" and not "changed or" changes "
 
-The first letter in *lowercase*
+The first letter in **lowercase**
 
 Do not use a period (.) At the end of the sentence
 
 ## Body
-As in the *Description*, use of imperative language in the present: "change" and not "changed or" changes ".
+As in the **Description**, use of imperative language in the present: "change" and not "changed or" changes ".
 
-*The body must include what and why and not how.*
+**The body must include what and why and not how.**
 
 ## Baseboard
 The footer should contain information about Breaking Changes, add the reference to the ticket / issue that this commit is referencing.
@@ -90,7 +90,7 @@ lorem ipsum
 ```
 
 # Template
-A solution to always keep the pattern to be followed is to create a file called *.gitmessage* with the contents of the subsection *Structure* in the same directory as the projects, on windows the default directory can be found below:
+A solution to always keep the pattern to be followed is to create a file called **.gitmessage** with the contents of the subsection **Structure** in the same directory as the projects, on windows the default directory can be found below:
 
 * ```C:\Users\%userprofile%\source\repos\``` (copy and paste in windows explorer)
 
