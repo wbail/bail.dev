@@ -105,7 +105,7 @@ implement the database rollback in the service layer
 using the default Microsoft's solution, the 
 TransactionScope
 
-Refs #1337
+Resolves #1337
 ```
 
 * Example # 2 - Use of scope and footer with Breaking Change
