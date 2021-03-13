@@ -6,14 +6,10 @@ entries:
         url: false
       - title: resume
         url: resume.pdf
-      - title: bail.dev
-        url: 
       - title: linkedin
         url: https://linkedin.com/in/guilherme-bail
       - title: github
         url: https://github.com/wbail
-      - title: medium
-        url: https://medium.com/@wbail
 
   - title: about_me
     url: false
