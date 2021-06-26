@@ -89,6 +89,14 @@ BREAKING CHANGE:
 lorem ipsum
 ```
 
+For closing tickets automatically, the ticket needs to be referenced in the PR message using keywords, like:
+
+* **resolves**
+* **close**
+* **fix**
+
+Eg: ``` resolves #1337 ```
+
 # Template
 A solution to always keep the pattern to be followed is to create a file called **.gitmessage** with the contents of the subsection **Structure** in the same directory as the projects, on windows the default directory can be found below:
 
@@ -127,3 +135,5 @@ https://www.conventionalcommits.org/
 https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
 
 https://chris.beams.io/posts/git-commit/
+
+https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
